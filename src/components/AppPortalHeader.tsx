@@ -45,7 +45,7 @@ export default function AppPortalHeader({
               <span className="text-[11px] font-mono text-gray-400 font-medium">Est. 1915</span>
             </div>
             <h1 className="text-2xl md:text-3xl font-sans font-black tracking-tight text-white mt-0.5">
-              Mathematics <span className="text-[#e2e8f0]">Learning Hub</span>
+              CalcBridge <span className="text-[#e2e8f0]">Learning Hub</span>
             </h1>
             <p className="text-xs text-gray-300 mt-1 max-w-xl font-sans font-medium">
               High-visibility digital resources coordinated by the SAC Math Department to help math students master foundational and advanced concepts.
